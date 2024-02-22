@@ -1,0 +1,82 @@
+body {
+    /* text-align: right; */
+    padding: 0;
+    margin: 0;
+    background: radial-gradient(circle, rgb(235, 228, 240), rgb(46, 8, 82));
+}
+#imglaliga {
+    height: 300px;
+    width: 25%;
+    padding: 0 50px 50px 0;
+    padding-left: 38%;
+}
+#A1 {
+    display: contents;
+    justify-content: center;
+}
+#A1 .Aimge {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 500px;
+}
+#A1 h2 {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    color: #1f0330;
+}
+#A1 pre {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(2, 2, 2);
+}
+.A1imge {
+    width: 250px;
+    height: 300px;
+}
+#ATitel {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(60, 9, 83);
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/***************************************************/
+#src {
+    height: 500px;
+    width: 100%;
+    /* overflow:hidden; */
+}
+
+#txt {
+
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+}
+
+#uu {
+    text-align: center;
+    font-family: cursive;
+    color: rgb(91, 45, 119);
+}
+
+.coloor {
+    color: rgb(175, 22, 22);
+}
+
+.color {
+    color: rgb(21, 49, 92);
+}
+
+.SS {
+    display: flex;
+}
+
+.SS img {
+
+    height: 400px;
+    width: 25%f;
+}
